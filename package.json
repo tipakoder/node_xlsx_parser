@@ -1,0 +1,17 @@
+{
+  "name": "minist_xlsx_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:mon": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-xml-parser": "^4.0.0-beta.8",
+    "unzipper": "^0.10.11",
+    "xlsx": "^0.17.4"
+  }
+}
